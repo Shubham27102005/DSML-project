@@ -1,6 +1,6 @@
 # Statistics Practice - Sales Data
 
-**Author:** Vaibhav Singh
+**Author:** Shubham Saurabh
 
 ## Overview
 
