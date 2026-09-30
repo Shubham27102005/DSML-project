@@ -26,4 +26,4 @@ A mini **Exploratory Data Analysis (EDA)** project using Python to analyze Netfl
 
 ### 👨‍💻 Author
 
-**Vaibhav Singh**
+**Shubham Saurabh**
